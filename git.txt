@@ -3,4 +3,6 @@ clear
 git status
 clone
 add new file
-jay
+jayayuiutgy
+yit
+hdfgtyiu
